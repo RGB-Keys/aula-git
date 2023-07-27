@@ -5,5 +5,5 @@
 ...
 
 ```
-Teste
+node app.js
 ```
